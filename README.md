@@ -15,7 +15,8 @@
   <img align="center" alt="Geo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Geo-PC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Geo-PC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  <img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/856692075620597760/971026964548845648/download20220502092426.png">
+  <img align="center" alt="Geo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/856692075620597760/1020025578654552134/geogithub.png">
 </div>
   
   ##

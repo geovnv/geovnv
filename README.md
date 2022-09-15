@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Geovana Nava
 
 - 🔭 Atuamente não trabalho na minha área
-- 🌱 Estou iniciando meus estudos em Python, Java e HTML
+- 🌱 Estou iniciando meus estudos em Python, Java e SQL
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
 - 😄 Pronouns: Ela/ Dela
 

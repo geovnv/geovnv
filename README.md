@@ -1,9 +1,10 @@
 ### Olá! Eu sou a Geovana Nava
 
 - 🔭 Atuamente não trabalho na minha área
-- 🌱 Estou iniciando meus estudos em Python, JavaScript e SQL
+- 🌱 Estou iniciando meus estudos na área da programação!
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
 - 😄 Pronouns: Ela/ Dela
+- 🌞 Agradeço qualquer ajuda ou sujestão!	 
 
 <div align="center">
   <a href="https://github.com/geovnv">

@@ -4,19 +4,13 @@
 - 🌱 Estou iniciando meus estudos na área da programação!
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
 - 😄 Pronouns: Ela/ Dela
-- 🌞 Qualquer ajuda ou sujestão será sempre bem vinda!
 
-<div align="center">
-  <a href="https://github.com/geovnv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovnv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovnv&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Geo-PC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Geo-PC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  <img align="center" alt="Geo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/856692075620597760/1020025578654552134/geogithub.png">
 </div>
   

@@ -4,7 +4,9 @@
 - 🌱 Estou iniciando meus estudos na área da programação!
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
 - 😄 Pronouns: Ela/ Dela
-
+  
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=geovnv&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/geovnv/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovnv&layout=compact&theme=midnight-purple)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

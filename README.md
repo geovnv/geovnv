@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Geovana Nava
 
-- 🌱 Estou iniciando meus estudos na área da programação, com foco principal em front-end!
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=geovnv&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/geovnv/github-readme-stats#gh-dark-mode-only)

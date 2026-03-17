@@ -1,4 +1,4 @@
-### Olá! Eu sou a Geovana Nava, tenho 23 anos de idade e sou formada em Analise e Desenvolvimento de Sistemas pela universidade UNIASSELVI.
+
 
 - 📫 Contate-me via e-mail: geovana.nava@gmail.com
   

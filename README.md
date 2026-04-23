@@ -9,8 +9,7 @@
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          
-  <img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/856692075620597760/1020025578654552134/geogithub.png">
+
 </div>
   
   ##
